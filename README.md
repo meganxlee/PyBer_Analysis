@@ -13,8 +13,8 @@ The suburban city type has the second-most total number of rides, drivers, and f
 - Urban
 The urban city type has the highest total number of rides, drivers, and fare cost at 1,625 total rides, 2,405 total drivers, and $39.9k in total fares. The suburban city type has an average fare per ride of $24.53 and average fare per driver of $16.57. 
 
-![PyBer_fare_summary_chart](PyBer_fare_summary_chart.png)
-![PyBer_fare_summary](PyBer_fare_summary.png)
+![PyBer_fare_summary_chart](analysis/PyBer_fare_summary_chart.png)
+![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
 
 ## Summary
 Based on the results, the three business recommendations I would suggest to the CEO for addressing any disparities among city types are:
