@@ -1,7 +1,5 @@
 # PyBer_Analysis
 
-# PyBer_Analysis# PyBer_Analysis
-
 ## Overview
 The purpose of this analysis is to create a summary dataframe of the ride-sharing data by city type that will then be visualized into a multiple-line graph that shows the total weekly fares for each city type. The graph will show how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
